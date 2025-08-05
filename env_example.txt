@@ -1,0 +1,10 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Application Configuration
+DEBUG=True
+LOG_LEVEL=INFO
+
+# Language Configuration
+DEFAULT_LANGUAGE=en
+SUPPORTED_LANGUAGES=en,ar 
