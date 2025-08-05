@@ -1,3 +1,2 @@
-# System packages required for spaCy and other dependencies
 python3-dev
 build-essential 
